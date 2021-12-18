@@ -14,10 +14,9 @@ This regex is used to find any email addresses in a text file. This tutorial wil
 - [Quantifiers](#quantifiers)
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
+- [Author](#author)
 
 ## Regex Components
 
